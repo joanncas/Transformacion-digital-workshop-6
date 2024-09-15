@@ -77,12 +77,13 @@ El **Departamento de Innovación y Tecnología en IA** reporta directamente al *
 
 ### **Modelo AS-IS (Antes de la Implementación de IA)**
 - Actualmente, la empresa no cuenta con un área dedicada a la **Inteligencia Artificial**. Los proyectos relacionados con TI y tecnología están bajo la supervisión del **Gerente de Estrategia**.
+![AS-IS](AS-IS.png)
 
 ### **Modelo TO-BE (Con la Implementación de IA)**
 - Se creará el **Departamento de Innovación y Tecnología en IA**, que reportará directamente al **Gerente General**.
 - **Gerente de Innovación y Tecnología en IA**: Responsable de dirigir el departamento y coordinar las iniciativas de IA.
 - El organigrama incluirá un equipo especializado en IA que trabajará de manera coordinada con los otros departamentos como Hunting TI, Outsourcing TI y Data Analytics.
-
+![TO-BE](TO-BE.png)
 ---
 
 ## **Principios de Gobierno**
